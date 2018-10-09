@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\alipaySingle-20161222.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="795c38473dc8c277a8a07694592e13d7e7601108">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySingle-20161222_a6137b132c0dd449d1429d6da64a26c38d0987a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\aps.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3ee69bbdcf13f8ae21a85400b3198d7621361ba">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps_4b1fc76ee1885c43496d7c70b80d94bda21fe863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\MiPush_SDK_Client_3_1_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be4a7a20473c8e53375e59bef1af1bccaf1a7276">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\MiPush_SDK_Client_3_1_2_f38a1ab9989f8121c76d81b6602035f574920232\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\sinaweibo4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150db4f7f50eeca5cd95b87b0bb0337dbc2bdffb">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\sinaweibo4.1_a72578814d437c585d3793c9e4ba394aa72df485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\aps-xiaomi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6af4c3f9b2ae9ae78475cf57e99b2bff0f86de2">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps-xiaomi_42b497249e5f87ddfd3661a4477a5e1a223f2f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\oauth-miui.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af8a236934add1a3ea0f2e6a0358832a42ed92b5">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-miui_9a034f3a992414e3e7d262d28c9b42dcf93b2e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\alipayutdid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipayutdid_4fe31bafa13230663380f1088d62aab1928c704e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\share-weixin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="241254c6186b5acad020f4d73a84ed95454fd559">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-weixin_245f9369abde1fe1421344c3dae7c5c8b564879f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\qq_mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\qq_mta-sdk-1.6.2_71eccf8fe2c8813c99302d884593f97b8bfbdd56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\umeng-analytics-v6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v6.0.1_12435eb636f54d6e32900201a0bd923d291d5e02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\geolocation-amap.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4063f47d2c43cc85043b91f0c5d622e14e648b84">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-amap_5fec2916012c5ab55a1d1a776fb0f5cea2797b07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\tx_wx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_wx_40bed68a5eb8777f2958281d14330f97ed1f115c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\AMap_Services_V2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3057067b0d15469c99c2e8b1a87d66c94862ac7a">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Services_V2.4.0_965b14b7be33973347581679d0e658e93bfb7b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\oauth-qq.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2df273698d89659d2b9698337a411c6cb7d0a4">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-qq_5071c3cff9a8e41f258507dbc439f2b7fc6b6e76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\speech_ifly.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b000553404786c625318e87970dfe9c12a06760">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_ifly_8cf0f56632cff19b03e5d38d8e67a533ded053b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\20d9968c9a9612ad80669d231de5d4c5aa42766f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6f4fddc486393a1ddf625f4cc9919ed09b6578e">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2701c7221fd2e6b483929a768a7c2e165d413911\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\geolocation-baidu.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45d1304b8ab6f314e9ee710e5262c79157c7653d">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\geolocation-baidu_fe346d81ed4dec1e582223c27d4ebdfd03b40257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\share-sina.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e99f71ffb83780719087071be61cfebb421186ed">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-sina_2298f643262d2bd842c1dfccb1200af612eb5ba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\map-baidu.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="894209db32c15bacda540a69b5818423931d299c">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\map-baidu_9d719e00d7e9f68dc7fcacad658ab8d57f535ccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\payment-weixin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f92cf6fbcba3b7a5ca69935df38dc37ce63f5d1f">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-weixin_55b3fb22ae09490d659f0ba7249d1c23bcda68eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\messaging.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0bfd4958c3a0bf677549ac78d44d9452fd5af101">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\messaging_a58c810b3b350a56ffc0a4fc1176a0646ccf8200\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\aps-dhPush.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fde83b90e3f0d1ed306b657cbef1b20b67a363e0">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps-dhPush_cc0a02f1e571ffb07efe7dae1b2d5cba44330c39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\oauth-weixin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d73f82c38e91388570e62b0e2a59088acc850af7">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-weixin_018d1602cf360583cf4c5a3079cd97926c015d10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\oauth-sina.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f88eca7ce7761a4d56ec55cde1499b802a1e47b">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\oauth-sina_eb882c94332c4075e07357f5f505f09963693ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\xiaomi-oauth.1.6.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f8a6148dee5840be149828710ce4248dc283e34">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\xiaomi-oauth.1.6.6_8aedb55372592c9b8dc8f255065bfd849afb3dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\tx_weibo_sdk-httpclient-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk-httpclient-3.0.1_6be97a586db16f5a951f4f9548b70d140551b133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\qq_sdk_v3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84c7cf027dfd4517eb51d5898999a7f2f74f99cc">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\qq_sdk_v3.1.0_b0d2b7d5683673d85f78cb3c8ac7ca0b7230fe32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\tx_weibo_sdk_component.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="17d672bf657b4d848d1b33782496fc0dd972072c">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_component_0e8bc9a598295b5b443cbd78c59059c8c0d5ced4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\aps-igexin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c479a6f4a2991ed06449b74afe8fea15dc4a5749">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\aps-igexin_2613142a19756136c7948fd47e61bdfd99c230aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\payment-alipay.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a392fbac20a47b38db43e53539d1062e6253456d">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\payment-alipay_b004db56b613c1a372d2134c1a3eb5c2c26a2cbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="994d12017bc2c9ba570180cde5500689d134e6e6">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_02ad307cd2029fbf2bed06d40395d00a3b34f4cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\statistics-umeng.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6c13aa866ff06ecffe3bb4b37e5a6887187ae6b">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\statistics-umeng_d9822c8f3fd2fc30c047741ccca359d68948ead6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\tx_weibo_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="33921321a220f3927929217aeed32befede21502">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\tx_weibo_sdk_77d0f485d046a457fcac6d497efe3d66956850c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\share-qq.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="072fd11b5ccc155d8bb5d5d6238b40afd60b2195">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-qq_ccba905cbb1e8743843866420304aaec63904450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\share-tencent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f476b6d310b4d1ca9ad4b19be82542f3bb220635">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\share-tencent_cfd55822c5730a3f5a7173d108a01f7e085fb454\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\GetuiSDK2.10.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d70dcea02114e0414060311e3733db5c40498b58">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\GetuiSDK2.10.3.5_f5124196591b4039b331fc31f869d3df713f1bf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\AMap_Location_V3.3.0_20170118.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="299ccce875c1bbd5eb2802923ae89946e22b7ee6">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V3.3.0_20170118_9d2b77c6797185b8c01982a406749f431d1dc199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\AMap_3DMap_V2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d13e56038f3e198d129da3966008dff00365636a">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_3DMap_V2.4.1_dea115b353de97680c48ee7f48370d0cbef34d66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\map-amap.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="205f2f27d45e046ef630545fab06985ca252938a">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\map-amap_4f3266c94bdc722cf01809b05d3121a04db41956\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HBuilder-Integrate-AS\app\libs\speech.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ba459b886cb69f896701d961dc55e5518869db5">
+        <dex dex="D:\HBuilder-Integrate-AS\app\build\intermediates\transforms\dex\debug\folders\1000\2\speech_8d59b4d33301c16ef5fe45585e7a913904f197d0\classes.dex" />
+    </item>
+
+</items>

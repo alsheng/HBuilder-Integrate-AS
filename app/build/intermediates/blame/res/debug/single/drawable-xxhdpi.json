@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "D:\\HBuilder-Integrate-AS\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\splash.png",
+        "source": "D:\\HBuilder-Integrate-AS\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\push.png",
+        "source": "D:\\HBuilder-Integrate-AS\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    }
+]
